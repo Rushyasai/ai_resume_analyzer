@@ -1,0 +1,2 @@
+Skills: Python, machine learning, scikit-learn, Pandas, FastAPI, Docker, MLflow, Git, deployed on Render, AWS.
+Projects: Built and deployed a churn prediction model with FastAPI and Docker; experiment tracking with MLflow.

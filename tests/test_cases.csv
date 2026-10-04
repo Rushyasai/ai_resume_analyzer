@@ -1,0 +1,4 @@
+test_resume,expected_top_role
+resume_a_data_analyst.txt,Data Analyst
+resume_b_ml_engineer.txt,Machine Learning Engineer
+resume_c_nlp_engineer.txt,NLP Engineer

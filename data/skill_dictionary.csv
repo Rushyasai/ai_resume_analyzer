@@ -1,0 +1,54 @@
+skill,category,aliases
+Python,Programming,python3
+Java,Programming,
+C++,Programming,cpp
+C#,Programming,csharp
+JavaScript,Programming,js
+R,Programming,
+SQL,Databases,mysql|postgresql|sqlite|t-sql
+MongoDB,Databases,mongo
+PostgreSQL,Databases,postgres
+Excel,Tools,ms excel|microsoft excel|advanced excel
+Power BI,Tools,powerbi
+Tableau,Tools,
+Git,Tools,github|gitlab
+Docker,Cloud & DevOps,containerization|dockerfile
+Kubernetes,Cloud & DevOps,k8s
+AWS,Cloud & DevOps,amazon web services|ec2|s3
+Azure,Cloud & DevOps,microsoft azure
+GCP,Cloud & DevOps,google cloud
+Cloud Deployment,Cloud & DevOps,deployed on|render|heroku|streamlit cloud
+CI/CD,Cloud & DevOps,github actions|jenkins
+FastAPI,Backend,fast api
+Flask,Backend,
+Django,Backend,
+REST API,Backend,apis|api|restful
+Pandas,Data Science,
+NumPy,Data Science,
+Matplotlib,Data Science,
+Statistics,Data Science,statistical analysis|hypothesis testing
+Data Visualization,Data Science,data visualisation|dashboards
+Machine Learning,ML & AI,ml|supervised learning
+scikit-learn,ML & AI,sklearn|scikit learn
+Deep Learning,ML & AI,neural networks|dl
+TensorFlow,ML & AI,
+PyTorch,ML & AI,torch
+Keras,ML & AI,
+MLflow,ML & AI,
+NLP,ML & AI,natural language processing|text mining
+spaCy,ML & AI,
+NLTK,ML & AI,
+Transformers,ML & AI,bert|gpt
+Hugging Face,ML & AI,huggingface
+LLM,ML & AI,large language models|llms|chatgpt|openai
+LangChain,ML & AI,
+RAG,ML & AI,retrieval augmented generation|retrieval-augmented generation
+OpenCV,Computer Vision,opencv-python|cv2
+CNN,Computer Vision,convolutional neural network|convolutional neural networks
+YOLO,Computer Vision,yolov5|yolov8
+Computer Vision,Computer Vision,image processing
+Streamlit,Tools,
+Linux,Tools,bash|shell scripting
+HTML,Web,html5
+CSS,Web,css3
+React,Web,reactjs

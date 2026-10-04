@@ -1,0 +1,2 @@
+Skills: Python, NLP, spaCy, NLTK, Transformers, Hugging Face, PyTorch, deep learning, BERT fine-tuning.
+Projects: Sentiment classifier using BERT and Hugging Face; named entity recognition with spaCy.

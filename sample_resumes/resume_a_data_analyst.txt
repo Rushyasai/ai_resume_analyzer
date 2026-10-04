@@ -1,0 +1,2 @@
+Student, B.Tech CSE. Skills: Python, SQL, MySQL, Excel, Pandas, NumPy, Power BI, Tableau, Matplotlib, statistics, data visualization, Git.
+Projects: Sales dashboard in Power BI with SQL queries; EDA on retail data using Pandas and Matplotlib.
