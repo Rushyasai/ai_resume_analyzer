@@ -1,6 +1,9 @@
 # AI Resume Analyzer and Job Recommendation System
 
 NLP-based Streamlit app that scores how well a resume matches job roles, lists missing skills and builds a learning roadmap.
+# Live Demo
+
+[Click here to use the AI Resume Analyzer](https://airesumejobanalyzer.streamlit.app/)
 
 ## Features
 Upload PDF/DOCX, text extraction and cleaning (keeps C++, C#, .NET), dictionary-based skill extraction (50 skills, grouped by category), TF-IDF + cosine similarity matching against 8 roles, top-3 role recommendation, skill-gap analysis, weekly roadmap, match-score chart, downloadable report.
